@@ -1,6 +1,6 @@
 ## Bio page
 
-** Kosmas Chatzimichalis
-** Greece
-** Gemista
-** Motorbikes
+* Kosmas Chatzimichalis
+* Greece
+* Gemista
+* Motorbikes
